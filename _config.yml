@@ -1,0 +1,5 @@
+baseurl: /
+markdown: rdiscount
+url: 
+author: Phenix Zhong
+pygments: true
