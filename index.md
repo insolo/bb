@@ -1,5 +1,5 @@
 ---
-title: Life is beautiful~
+title: Mommy 's diary
 layout: page
 ---
 
